@@ -1,0 +1,8 @@
+Host: gw.api.animedigitalnetwork.fr
+Content-Type: application/json
+Connection: keep-alive
+Accept: */*
+User-Agent: ADN/1 CFNetwork/1240.0.4 Darwin/20.5.0
+Accept-Language: fr
+Content-Length: 62
+Accept-Encoding: gzip, deflate, br

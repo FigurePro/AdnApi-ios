@@ -1,0 +1,1 @@
+https://gw.api.animedigitalnetwork.fr/authentication/login
